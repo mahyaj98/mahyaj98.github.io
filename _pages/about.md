@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-I'm a second-year Ph.D. student in the Theory Group at the University of Alberta, where I am fortunate to be advised by [Zachary Friggstad](https://friggstad.github.io/). I completed my undergraduate degree in computer engineering at Isfahan University of Technology, and my master' degree in computing science at University of Alberta, with Zac Friggstad. You can find my CV [here](https://mahyaj98.github.io/files/CV_Mahya.pdf). I am interested in theoretical computer science, specifically on design and analysis of Approximation Algorithms, Combinatorial Optimization, and Hardness of Algorithms. 
+I'm a second-year Ph.D. student in the Theory Group at the University of Alberta, where I am fortunate to be advised by [Zachary Friggstad](https://friggstad.github.io/). I completed my undergraduate degree in computer engineering at Isfahan University of Technology, and my master' degree in computing science at University of Alberta, with Zac Friggstad. You can find my CV [here](https://mahyaj98.github.io/files/CV_Mahya.pdf). I am interested in theoretical computer science, specifically on design and analysis of Approximation Algorithms, Combinatorial Optimization, and Hardness Analysis. 
 
 ## Publications
 [Improved Polynomial-Time Approximations for Clustering with Minimum Sum of Radii or Diameters](https://drops.dagstuhl.de/opus/volltexte/2022/16994/pdf/LIPIcs-ESA-2022-56.pdf) <br />

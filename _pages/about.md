@@ -9,9 +9,19 @@ redirect_from:
 ---
 
 ## About Me
-I'm a second-year Ph.D. student in the Theory Group at the University of Alberta, where I am fortunate to be advised by [Zachary Friggstad](https://friggstad.github.io/). I completed my undergraduate degree in computer engineering at Isfahan University of Technology, and my master' degree in computing science at University of Alberta, with Zac Friggstad. You can find my CV [here](https://mahyaj98.github.io/files/CV_Mahya.pdf). I am interested in theoretical computer science, specifically on design and analysis of Approximation Algorithms, Combinatorial Optimization, and Hardness Analysis. 
+I am Ph.D. Candidate in the Theory Group at the University of Alberta, where I am fortunate to be advised by [Zachary Friggstad](https://friggstad.github.io/). I completed my undergraduate degree in computer engineering at Isfahan University of Technology, and my master' degree in computing science at University of Alberta, with Zac Friggstad. You can find my CV [here](https://mahyaj98.github.io/files/CV_Mahya.pdf). I am interested in theoretical computer science, specifically on design and analysis of Approximation Algorithms, Combinatorial Optimization, and Hardness Analysis. 
 
 ## Publications
+
+[A Polynomial-Time Approximation for Pairwise Fair k-Median Clustering](https://arxiv.org/abs/2405.10378) <br />
+Sayan Bandyapadhyay, Eden Chlamtáč, Zachary Friggstad, Mahya Jamshidian, Yury Makarychev, Ali Vakilian <br />
+arXiv preprint <br />
+
+[A Constant-Factor Approximation for Pairwise Fair k-Center Clustering](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_4) <br />
+Sayan Bandyapadhyay, Tianzhi Chen, Zachary Friggstad, Mahya Jamshidian <br />
+IPCO, 2025 <br />
+
+
 [Improved Polynomial-Time Approximations for Clustering with Minimum Sum of Radii or Diameters](https://drops.dagstuhl.de/opus/volltexte/2022/16994/pdf/LIPIcs-ESA-2022-56.pdf) <br />
 Z. Friggstad, M. Jamshidian <br />
 ESA, 2022 <br /> 

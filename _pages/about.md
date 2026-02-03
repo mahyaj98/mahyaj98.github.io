@@ -15,7 +15,7 @@ I am Ph.D. Candidate in the Theory Group at the University of Alberta, where I a
 
 [A Polynomial-Time Approximation for Pairwise Fair k-Median Clustering](https://arxiv.org/abs/2405.10378) <br />
 Sayan Bandyapadhyay, Eden Chlamtáč, Zachary Friggstad, Mahya Jamshidian, Yury Makarychev, Ali Vakilian <br />
-arXiv preprint <br />
+AISTATS, 2026 <br />
 
 [A Constant-Factor Approximation for Pairwise Fair k-Center Clustering](https://link.springer.com/chapter/10.1007/978-3-031-93112-3_4) <br />
 Sayan Bandyapadhyay, Tianzhi Chen, Zachary Friggstad, Mahya Jamshidian <br />

@@ -13,6 +13,10 @@ I am Ph.D. Candidate in the Theory Group at the University of Alberta, where I a
 
 ## Under Submission
 
+Noisy Oracles and Lower Bounds in Clustering with Approximation Algorithms <br />
+Mahya Jamshidian, Zachary Friggstad, Ali Vakilian <br />
+Under submission to STOC, 2027 <br />
+
 Capacitated Vehicle Routing <br />
 Mahya Jamshidian, Alexander Fair, Zachary Friggstad <br />
 Under submission to STACS, 2027 <br />

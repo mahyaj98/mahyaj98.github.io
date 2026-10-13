@@ -13,13 +13,13 @@ I am Ph.D. Candidate in the Theory Group at the University of Alberta, where I a
 
 ## Under Submission
 
-Improved Approximation Algorithms for Capacitated Vehicle Routing with Unsplittable Demands <br />
-Alexander Fair, Zachary Friggstad, Mahya Jamshidian <br />
-Under submission, 2026 <br />
+Capacitated Vehicle Routing <br />
+Mahya Jamshidian, Alexander Fair, Zachary Friggstad <br />
+Under submission to STACS, 2027 <br />
 
-k-Center under Weak and Strong Distance Oracles with an Application to Minimum Sum of Radii Clustering <br />
-Zachary Friggstad, Mahya Jamshidian, Ali Vakilian <br />
-Under submission, 2026 <br />
+Noisy Oracles in k-Center <br />
+Mahya Jamshidian, Zachary Friggstad, Ali Vakilian <br />
+Under submission to ALT, 2027 <br />
 
 ## Publications
 

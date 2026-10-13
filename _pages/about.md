@@ -11,6 +11,16 @@ redirect_from:
 ## About Me
 I am Ph.D. Candidate in the Theory Group at the University of Alberta, where I am fortunate to be advised by [Zachary Friggstad](https://friggstad.github.io/). I completed my undergraduate degree in computer engineering at Isfahan University of Technology, and my master' degree in computing science at University of Alberta, with Zac Friggstad. You can find my CV [here](https://mahyaj98.github.io/files/CV_Mahya.pdf). I am interested in theoretical computer science, specifically on design and analysis of Approximation Algorithms, Combinatorial Optimization, and Hardness Analysis. 
 
+## Under Submission
+
+Improved Approximation Algorithms for Capacitated Vehicle Routing with Unsplittable Demands <br />
+Alexander Fair, Zachary Friggstad, Mahya Jamshidian <br />
+Under submission, 2026 <br />
+
+k-Center under Weak and Strong Distance Oracles with an Application to Minimum Sum of Radii Clustering <br />
+Zachary Friggstad, Mahya Jamshidian, Ali Vakilian <br />
+Under submission, 2026 <br />
+
 ## Publications
 
 [A Polynomial-Time Approximation for Pairwise Fair k-Median Clustering](https://arxiv.org/abs/2405.10378) <br />
